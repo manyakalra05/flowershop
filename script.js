@@ -331,3 +331,4 @@ document.querySelector('.fa-heart').addEventListener('click', function(e) {
     updateCartIcon();
   }
 });
+<!-- 2025-02-17T23:17:42+05:30 -->
